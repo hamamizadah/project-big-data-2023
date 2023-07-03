@@ -79,4 +79,7 @@ Pendekatan berbasis EDA menggunakan grafik, plot, dan teknik visualisasi data la
 
 dari hasil prediksi logistic regression dengan score 0.66
 
+Refrensi
+https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link
+
 
