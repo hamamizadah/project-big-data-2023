@@ -24,10 +24,10 @@ Proyek  Menjelajahi Pola dan Tren Kanker Paru-paru tujuan untuk meningkatkan aku
 ## Penjelasan Metode
 
 ### Life Cycle
-![Screenshot ](img\flowchart\lifecycle.png)
+![Screenshot ](img/flowchart/lifecycle.png)
 
 ### Flow Chart
-![Screenshot ](img\flowchart\flowchart.png)
+![Screenshot ](img/flowchart/flowchart.png)
 
 Pendekatan berbasis EDA menggunakan grafik, plot, dan teknik visualisasi data lainnya untuk memperoleh pemahaman yang lebih dalam tentang karakteristik data kanker paru-paru. Metode ini juga melibatkan analisis deskriptif, seperti perhitungan statistik sederhana dan pengelompokan data untuk mengidentifikasi kelompok yang berbeda.
 
