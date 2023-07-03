@@ -3,8 +3,8 @@
 ## Projek UAS BIG DATA 2023
 ### Anggota   : 
 
--  ## Dio Aulia Ari Kurnia Sandi (2041720086)
--  ## Muhammad Hamamiy Zadah     (2041720028)
+-  ### Dio Aulia Ari Kurnia Sandi (2041720086)
+-  ### Muhammad Hamamiy Zadah     (2041720028)
 
 ## Penjelasan Proyek
 
