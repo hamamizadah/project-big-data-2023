@@ -41,7 +41,8 @@ Pendekatan berbasis EDA menggunakan grafik, plot, dan teknik visualisasi data la
 ![Screenshot ](img/preprocessingBigData/04.memilih_Kolom_yang_ingin_digunakan_pada_dataset.png)
 
 5. save hasil dari dataset terbaru
-![Screenshot ](img/preprocessingBigData/05.save_hasil_dari_dataset_terbaru.png)
+
+    ![Screenshot ](img/preprocessingBigData/05.save_hasil_dari_dataset_terbaru.png)
 
 
 ### Tubes Big Data
@@ -50,7 +51,8 @@ Pendekatan berbasis EDA menggunakan grafik, plot, dan teknik visualisasi data la
     ![Screenshot ](img/tubes_bigdata/1.import_library.png)
 
 2. membaca dataset terbaru
-![Screenshot ](img/tubes_bigdata/2.membaca_dataset_terbaru.png)
+
+    ![Screenshot ](img/tubes_bigdata/2.membaca_dataset_terbaru.png)
 
 3. menyajikan grafik dari pengidap kanker berdasarkan umur
 ![Screenshot ](img/tubes_bigdata/3.menyajikan_grafik_dari_pengidap_kanker_berdasarkan_umur.png)
