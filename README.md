@@ -34,7 +34,8 @@ Pendekatan berbasis EDA menggunakan grafik, plot, dan teknik visualisasi data la
 ![Screenshot ](img/preprocessingBigData/02.importSparkSession.png)
 
 3. menghilangkan nilai null
-![Screenshot ](img/preprocessingBigData/03.menghilangkan_Nilai_null.png)
+
+    ![Screenshot ](img/preprocessingBigData/03.menghilangkan_Nilai_null.png)
 
 4. memilih kolom yang akan digunakan pada dataset
 ![Screenshot ](img/preprocessingBigData/04.memilih_Kolom_yang_ingin_digunakan_pada_dataset.png)
@@ -45,7 +46,8 @@ Pendekatan berbasis EDA menggunakan grafik, plot, dan teknik visualisasi data la
 
 ### Tubes Big Data
 1. import library 
-![Screenshot ](img/tubes_bigdata/1.import_library.png)
+
+    ![Screenshot ](img/tubes_bigdata/1.import_library.png)
 
 2. membaca dataset terbaru
 ![Screenshot ](img/tubes_bigdata/2.membaca_dataset_terbaru.png)
@@ -54,7 +56,7 @@ Pendekatan berbasis EDA menggunakan grafik, plot, dan teknik visualisasi data la
 ![Screenshot ](img/tubes_bigdata/3.menyajikan_grafik_dari_pengidap_kanker_berdasarkan_umur.png)
 
 4. menyajikan grafik dari pengidap kanker berdasarkan Air pollution (Polusi udara)
-![Screenshot ](img/tubes_bigdata/4.menyajikan_grafik_dari_pengidap_kanker_berdasarkan_AirPollution_(Polusi_udara).png)
+![Screenshot ](img/tubes_bigdata/4.menyajikan_grafik_dari_pengidap_kanker_berdasarka_AirPollution_(Polusi_udara).png)
 
 5. menyajikan grafik dari pengidap kanker berdasarkan gender
 ![Screenshot ](img/tubes_bigdata/5.menyajikan-grafik-dari-pengidap-kanker-berdasarkan-gender.png)
@@ -69,7 +71,8 @@ Pendekatan berbasis EDA menggunakan grafik, plot, dan teknik visualisasi data la
 ![Screenshot ](img/tubes_bigdata/8.histogram-dari-grafik.png)
 
 9. mendefinisikan variabel 
-![Screenshot ](img/tubes_bigdata/9.mendefinisikan-variabel.png)
+
+    ![Screenshot ](img/tubes_bigdata/9.mendefinisikan-variabel.png)
 
 10. melakukan training
 ![Screenshot ](img/tubes_bigdata/10.melakukan-training.png)
