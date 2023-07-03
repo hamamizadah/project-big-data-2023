@@ -28,54 +28,54 @@ Pendekatan berbasis EDA menggunakan grafik, plot, dan teknik visualisasi data la
 
 ### Preprocessing Big Data
 1. install pyspark
-![Screenshot ](img\preprocessingBigData\01.png)
+![Screenshot ](img/preprocessingBigData/01.png)
 
 2. import Spark Session
-![Screenshot ](img\preprocessingBigData\02.importSparkSession.png)
+![Screenshot ](img/preprocessingBigData/02.importSparkSession.png)
 
 3. menghilangkan nilai null
-![Screenshot ](img\preprocessingBigData\03.menghilangkan_Nilai_null.png)
+![Screenshot ](img/preprocessingBigData/03.menghilangkan_Nilai_null.png)
 
 4. memilih kolom yang akan digunakan pada dataset
-![Screenshot ](img\preprocessingBigData\04.memilih_Kolom_yang_ingin_digunakan_pada_dataset.png)
+![Screenshot ](img/preprocessingBigData/04.memilih_Kolom_yang_ingin_digunakan_pada_dataset.png)
 
 5. save hasil dari dataset terbaru
-![Screenshot ](img\preprocessingBigData\05.save_hasil_dari_dataset_terbaru.png)
+![Screenshot ](img/preprocessingBigData/05.save_hasil_dari_dataset_terbaru.png)
 
 
 ### Tubes Big Data
 1. import library 
-![Screenshot ](img\tubes_bigdata\1.import_library.png)
+![Screenshot ](img/tubes_bigdata/1.import_library.png)
 
 2. membaca dataset terbaru
-![Screenshot ](img\tubes_bigdata\2.membaca_dataset_terbaru.png)
+![Screenshot ](img/tubes_bigdata/2.membaca_dataset_terbaru.png)
 
 3. menyajikan grafik dari pengidap kanker berdasarkan umur
-![Screenshot ](img\tubes_bigdata\3.menyajikan_grafik_dari_pengidap_kanker_berdasarkan_umur.png)
+![Screenshot ](img/tubes_bigdata/3.menyajikan_grafik_dari_pengidap_kanker_berdasarkan_umur.png)
 
 4. menyajikan grafik dari pengidap kanker berdasarkan Air pollution (Polusi udara)
-![Screenshot ](img\tubes_bigdata\4.menyajikan_grafik_dari_pengidap_kanker_berdasarkan_AirPollution_(Polusi_udara).png)
+![Screenshot ](img/tubes_bigdata/4.menyajikan_grafik_dari_pengidap_kanker_berdasarkan_AirPollution_(Polusi_udara).png)
 
 5. menyajikan grafik dari pengidap kanker berdasarkan gender
-![Screenshot ](img\tubes_bigdata\5.menyajikan-grafik-dari-pengidap-kanker-berdasarkan-gender.png)
+![Screenshot ](img/tubes_bigdata/5.menyajikan-grafik-dari-pengidap-kanker-berdasarkan-gender.png)
 
 6. menyajikan grafik dari pengidap kanker berdasarkan perokok
-![Screenshot ](img\tubes_bigdata\6.menyajikan-grafik-dari-pengidap-kanker-berdasarkan-perokok.png)
+![Screenshot ](img/tubes_bigdata/6.menyajikan-grafik-dari-pengidap-kanker-berdasarkan-perokok.png)
 
 7. menyajikan grafik dari pengidap kanker berdasarkan perokok pasif
-![Screenshot ](img\tubes_bigdata\7.menyajikan-grafik-dari-pengidap-kanker-berdasarkan-perokok-pasif.png)
+![Screenshot ](img/tubes_bigdata/7.menyajikan-grafik-dari-pengidap-kanker-berdasarkan-perokok-pasif.png)
 
 8. histogram dari grafik 
-![Screenshot ](img\tubes_bigdata\8.histogram-dari-grafik.png)
+![Screenshot ](img/tubes_bigdata/8.histogram-dari-grafik.png)
 
 9. mendefinisikan variabel 
-![Screenshot ](img\tubes_bigdata\9.mendefinisikan-variabel.png)
+![Screenshot ](img/tubes_bigdata/9.mendefinisikan-variabel.png)
 
 10. melakukan training
-![Screenshot ](img\tubes_bigdata\10.melakukan-training.png)
+![Screenshot ](img/tubes_bigdata/10.melakukan-training.png)
 
 11. menggunakan prediksi logistic regression
-![Screenshot ](img\tubes_bigdata\11.menggunakan-prediksi-logistic-regression.png)
+![Screenshot ](img/tubes_bigdata/11.menggunakan-prediksi-logistic-regression.png)
 
 dari hasil prediksi logistic regression dengan score 0.66
 
